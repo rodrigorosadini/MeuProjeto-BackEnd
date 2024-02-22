@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "meuprojeto",
   "version": "1",
+=======
+  "name": "meuprojetobackend",
+  "version": "1.0",
+>>>>>>> develop
   "description": "",
   "main": "index.js",
   "scripts": {
